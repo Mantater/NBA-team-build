@@ -20,15 +20,16 @@ python Main.py
 ```
 
 ## Usage:
-1. Download or clone all files (including the SQLite database if already created).
-2. Run NBADataCollector.py — this will populate or update the database with player/team info.
-````sh
+1. Download or clone all files (including the SQLite database).
+2. Database is already populated and ready to use.
+3. Run NBADataCollector.py — this will populate or update the database with player/team info.
+```sh
 python NBADataCollector.py
 ```
-3. Run Main.py — this launches the main program for team building.
-4. Filter players by attributes (team, position, active status, etc.).
-5. Add selected players to MyTeam.
-6. MyTeam Rules:
+4.Run Main.py — this launches the main program for team building.
+5. Filter players by attributes (team, position, active status, etc.).
+6. Add selected players to MyTeam.
+7. MyTeam Rules:
 	- Max cap = 5 players
 	- You can remove a player anytime by opening MyTeam
 
