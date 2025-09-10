@@ -8,7 +8,7 @@ The project collects player and team info from the nba_api
 ## Installation:
 1. Clone repo
 ```sh
-git clone https://github.com/Mantater/
+git clone https://github.com/Mantater/NBA-team-build
 ```
 2. Install dependencies
 ```sh
